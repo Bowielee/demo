@@ -1,0 +1,14 @@
+{
+    "name": "bowielee/demo",
+    "description": "a demo",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "BOWEI LI",
+            "email": "bowie.lee1212@gmail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
